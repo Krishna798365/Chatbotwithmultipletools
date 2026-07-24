@@ -1,24 +1,23 @@
 # ===== Core =====
-langchain==0.3.27
-langchain-core==0.3.75
-langchain-community==0.3.27
+langchain
+langchain-core
+langchain-community
 
 # ===== LangGraph =====
-langgraph==0.5.4
+langgraph
 
 # ===== Gemini =====
-langchain-google-genai==2.1.8
+langchain-google-genai
 
 # ===== Search Tools =====
-tavily-python==0.7.10
-duckduckgo-search==8.1.1
-wikipedia==1.4.0
+tavily-python
+duckduckgo-search
+wikipedia
 
 # ===== Document Loaders =====
-arxiv==2.2.0
-pypdf==5.9.0
-beautifulsoup4==4.13.4
-lxml==6.0.0
+pypdf
+beautifulsoup4
+lxml
 
 # ===== Utilities =====
 python-dotenv==1.1.1
